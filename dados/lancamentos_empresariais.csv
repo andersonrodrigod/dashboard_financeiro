@@ -1,0 +1,501 @@
+Data;Documento;Descrição;Tipo;Categoria;Valor;Cliente/Fornecedor;Centro de Custo
+2023-01-01;NF-12074;Serviço prestado;Receita;Rendimento Investimento;6475.42;Fornecedor Global;Administrativo
+2023-01-04;NF-15381;Compra de ativo;Investimento;Sistema ERP;-28802.65;Fornecedor Global;Vendas
+2023-01-09;NF-40474;Pagamento de conta;Despesa;Aluguel;-7117.98;Cliente Gama;Financeiro
+2023-01-09;NF-97408;Compra de ativo;Investimento;Expansão Filial;-39855.08;Banco Nacional;TI
+2023-01-09;NF-87692;Frete logístico;Despesa;Aluguel;-7037.14;Prestador Zeta;RH
+2023-01-10;NF-56245;Retenção de imposto;Imposto;ICMS;-2356.88;Serviços Omega;Administrativo
+2023-01-10;NF-85573;Frete logístico;Despesa;Manutenção;-6490.29;Cliente Beta;RH
+2023-01-12;NF-41332;Pagamento de tributo;Imposto;INSS;-2545.65;Cliente Alfa;RH
+2023-01-12;NF-25470;Pagamento de benefícios;Folha;Encargos;-1633.06;Cliente Beta;Financeiro
+2023-01-14;NF-98123;Serviço prestado;Receita;Venda Serviço;1724.31;Cliente Beta;Operações
+2023-01-14;NF-56264;Venda realizada;Receita;Rendimento Investimento;1334.04;Cliente Gama;TI
+2023-01-14;NF-10973;Implementação sistema;Investimento;Expansão Filial;-27856.12;Cliente Gama;TI
+2023-01-14;NF-10975;Retenção de imposto;Imposto;ISS;-1773.22;Fornecedor XP;TI
+2023-01-16;NF-84212;Pagamento de tributo;Imposto;ICMS;-2922.68;Fornecedor Global;Financeiro
+2023-01-17;NF-80109;Pagamento de tributo;Imposto;INSS;-3756.58;Cliente Gama;Financeiro
+2023-01-17;NF-10144;Pagamento de tributo;Imposto;IRPJ;-1301.44;Fornecedor Global;Financeiro
+2023-01-18;NF-22986;Campanha Google Ads;Despesa;Manutenção;-7916.25;Fornecedor XP;Vendas
+2023-01-22;NF-95016;Venda realizada;Receita;Venda Produto;542.74;Fornecedor YZ;Operações
+2023-01-23;NF-83273;Retenção de imposto;Imposto;ISS;-5979.57;Fornecedor Global;Vendas
+2023-01-23;NF-79267;Rendimento bancário;Receita;Venda Produto;12263.11;Prestador Zeta;Financeiro
+2023-01-24;NF-89768;Venda realizada;Receita;Venda Produto;5260.07;Cliente Gama;Vendas
+2023-01-24;NF-95959;Venda realizada;Receita;Venda Serviço;10358.43;Prestador Zeta;Vendas
+2023-01-25;NF-39409;Retenção de imposto;Imposto;INSS;-4892.89;Prestador Zeta;Vendas
+2023-01-26;NF-57527;Rendimento bancário;Receita;Venda Produto;11869.99;Cliente Gama;Vendas
+2023-01-27;NF-69728;Serviço prestado;Receita;Venda Produto;9459.67;Cliente Gama;Operações
+2023-01-28;NF-16178;Pagamento de conta;Despesa;Manutenção;-8388.31;Banco Nacional;Administrativo
+2023-01-28;NF-82324;Implementação sistema;Investimento;Sistema ERP;-14734.86;Banco Nacional;Vendas
+2023-01-28;NF-99600;Pagamento de tributo;Imposto;INSS;-4912.73;Cliente Alfa;Operações
+2023-01-28;NF-44435;Venda realizada;Receita;Rendimento Investimento;9332.36;Serviços Omega;RH
+2023-01-28;NF-22534;Retenção de imposto;Imposto;IRPJ;-2385.55;Serviços Omega;RH
+2023-01-28;NF-93676;Pagamento de tributo;Imposto;ISS;-5776.56;Fornecedor YZ;RH
+2023-01-28;NF-77464;Folha salarial;Folha;Salário;-2034.89;Fornecedor YZ;RH
+2023-01-30;NF-59476;Implementação sistema;Investimento;Sistema ERP;-7388.31;Fornecedor XP;Administrativo
+2023-01-30;NF-96955;Pagamento de tributo;Imposto;ISS;-3781.42;Cliente Beta;TI
+2023-02-01;NF-47755;Retenção de imposto;Imposto;INSS;-1751.68;Cliente Beta;RH
+2023-02-01;NF-31588;Pagamento de benefícios;Folha;Salário;-5139.31;Fornecedor Global;RH
+2023-02-02;NF-24771;Campanha Google Ads;Despesa;Aluguel;-9707.22;Fornecedor Global;Operações
+2023-02-02;NF-63511;Frete logístico;Despesa;Marketing;-4801.11;Cliente Alfa;Administrativo
+2023-02-03;NF-82524;Venda realizada;Receita;Rendimento Investimento;1567.59;Fornecedor YZ;Vendas
+2023-02-03;NF-41435;Implementação sistema;Investimento;Expansão Filial;-47407.93;Cliente Gama;Vendas
+2023-02-08;NF-88854;Implementação sistema;Investimento;Sistema ERP;-12726.42;Cliente Gama;Operações
+2023-02-09;NF-78995;Folha salarial;Folha;Encargos;-4286.79;Fornecedor YZ;RH
+2023-02-10;NF-34243;Serviço prestado;Receita;Venda Serviço;9503.48;Fornecedor YZ;RH
+2023-02-11;NF-31750;Compra de ativo;Investimento;Expansão Filial;-20148.27;Fornecedor YZ;TI
+2023-02-13;NF-88885;Serviço prestado;Receita;Rendimento Investimento;14399.63;Fornecedor YZ;RH
+2023-02-13;NF-32068;Folha salarial;Folha;Benefícios;-5855.23;Banco Nacional;Vendas
+2023-02-13;NF-91556;Campanha Google Ads;Despesa;Energia;-8168.78;Prestador Zeta;TI
+2023-02-13;NF-10431;Compra de ativo;Investimento;Compra Equipamento;-33659.77;Cliente Alfa;RH
+2023-02-13;NF-94096;Rendimento bancário;Receita;Venda Serviço;2103.44;Cliente Alfa;Vendas
+2023-02-14;NF-55276;Serviço prestado;Receita;Venda Produto;10900.68;Cliente Alfa;Vendas
+2023-02-15;NF-90734;Rendimento bancário;Receita;Venda Serviço;3978.66;Fornecedor Global;Financeiro
+2023-02-16;NF-58066;Venda realizada;Receita;Venda Serviço;13162.27;Fornecedor Global;TI
+2023-02-16;NF-84989;Folha salarial;Folha;Encargos;-7778.1;Serviços Omega;RH
+2023-02-17;NF-94760;Pagamento de benefícios;Folha;Salário;-3667.84;Fornecedor XP;Administrativo
+2023-02-18;NF-72594;Implementação sistema;Investimento;Compra Equipamento;-18160.02;Cliente Alfa;Administrativo
+2023-02-20;NF-32881;Pagamento de conta;Despesa;Logística;-5358.98;Banco Nacional;TI
+2023-02-20;NF-33278;Pagamento de conta;Despesa;Energia;-5901.49;Cliente Alfa;Vendas
+2023-02-21;NF-53853;Pagamento de benefícios;Folha;Salário;-4411.62;Fornecedor YZ;Administrativo
+2023-02-22;NF-13649;Serviço prestado;Receita;Rendimento Investimento;11904.71;Cliente Gama;Administrativo
+2023-02-22;NF-78967;Folha salarial;Folha;Salário;-6310.47;Cliente Alfa;RH
+2023-02-23;NF-38572;Pagamento de benefícios;Folha;Salário;-3880.15;Serviços Omega;Vendas
+2023-02-23;NF-43469;Rendimento bancário;Receita;Rendimento Investimento;14662.96;Serviços Omega;Vendas
+2023-02-25;NF-46586;Retenção de imposto;Imposto;ICMS;-3873.0;Cliente Beta;Operações
+2023-02-26;NF-69899;Frete logístico;Despesa;Manutenção;-8034.43;Cliente Alfa;TI
+2023-02-26;NF-46127;Compra de ativo;Investimento;Expansão Filial;-43895.11;Fornecedor YZ;Financeiro
+2023-02-26;NF-23131;Implementação sistema;Investimento;Compra Equipamento;-21040.34;Banco Nacional;Financeiro
+2023-02-27;NF-23273;Pagamento de tributo;Imposto;IRPJ;-4718.71;Banco Nacional;TI
+2023-02-28;NF-91460;Implementação sistema;Investimento;Sistema ERP;-15297.42;Prestador Zeta;TI
+2023-03-01;NF-35991;Retenção de imposto;Imposto;ICMS;-4771.37;Prestador Zeta;Administrativo
+2023-03-02;NF-75041;Obra física;Investimento;Expansão Filial;-38339.79;Fornecedor XP;RH
+2023-03-03;NF-15293;Campanha Google Ads;Despesa;Energia;-6526.32;Fornecedor XP;TI
+2023-03-04;NF-59982;Frete logístico;Despesa;Energia;-6378.18;Fornecedor Global;Administrativo
+2023-03-08;NF-56931;Pagamento de benefícios;Folha;Benefícios;-3941.89;Prestador Zeta;Financeiro
+2023-03-09;NF-14007;Serviço prestado;Receita;Rendimento Investimento;5526.64;Cliente Gama;RH
+2023-03-09;NF-24653;Pagamento de benefícios;Folha;Salário;-3775.87;Cliente Beta;Financeiro
+2023-03-09;NF-36588;Serviço prestado;Receita;Venda Serviço;10347.86;Fornecedor Global;TI
+2023-03-10;NF-43511;Folha salarial;Folha;Salário;-3715.16;Fornecedor Global;Financeiro
+2023-03-10;NF-10771;Obra física;Investimento;Sistema ERP;-26674.72;Cliente Alfa;TI
+2023-03-12;NF-45901;Retenção de imposto;Imposto;ISS;-792.31;Fornecedor YZ;RH
+2023-03-12;NF-18475;Retenção de imposto;Imposto;ISS;-3781.76;Fornecedor Global;Financeiro
+2023-03-12;NF-84347;Folha salarial;Folha;Salário;-2165.78;Cliente Alfa;RH
+2023-03-13;NF-31141;Frete logístico;Despesa;Marketing;-7564.83;Cliente Alfa;Financeiro
+2023-03-14;NF-16668;Retenção de imposto;Imposto;ICMS;-4534.88;Cliente Gama;TI
+2023-03-18;NF-66152;Campanha Google Ads;Despesa;Marketing;-3882.0;Fornecedor XP;Operações
+2023-03-18;NF-93705;Venda realizada;Receita;Venda Produto;5605.83;Fornecedor XP;Administrativo
+2023-03-19;NF-49730;Venda realizada;Receita;Venda Serviço;13707.21;Banco Nacional;Operações
+2023-03-19;NF-94153;Serviço prestado;Receita;Venda Produto;1502.03;Fornecedor XP;TI
+2023-03-20;NF-76510;Venda realizada;Receita;Venda Serviço;11497.48;Fornecedor XP;Operações
+2023-03-22;NF-10816;Serviço prestado;Receita;Rendimento Investimento;7675.23;Fornecedor XP;Administrativo
+2023-03-24;NF-59346;Retenção de imposto;Imposto;ICMS;-3736.48;Cliente Alfa;RH
+2023-03-25;NF-25557;Compra de ativo;Investimento;Expansão Filial;-5828.13;Cliente Alfa;TI
+2023-03-25;NF-40401;Pagamento de tributo;Imposto;ICMS;-2323.14;Serviços Omega;Administrativo
+2023-03-27;NF-28026;Obra física;Investimento;Compra Equipamento;-37938.12;Fornecedor YZ;Vendas
+2023-03-27;NF-27829;Serviço prestado;Receita;Venda Serviço;13100.27;Fornecedor Global;Operações
+2023-03-29;NF-86228;Pagamento de tributo;Imposto;IRPJ;-1522.69;Banco Nacional;Vendas
+2023-03-29;NF-38443;Retenção de imposto;Imposto;INSS;-2565.52;Fornecedor XP;Operações
+2023-03-30;NF-98077;Pagamento de tributo;Imposto;ICMS;-2855.37;Cliente Beta;RH
+2023-03-31;NF-70930;Venda realizada;Receita;Rendimento Investimento;13555.75;Banco Nacional;Vendas
+2023-04-03;NF-91610;Rendimento bancário;Receita;Rendimento Investimento;13256.0;Fornecedor Global;Operações
+2023-04-04;NF-16394;Venda realizada;Receita;Rendimento Investimento;5807.69;Cliente Alfa;TI
+2023-04-06;NF-19938;Pagamento de benefícios;Folha;Benefícios;-7137.55;Cliente Beta;TI
+2023-04-07;NF-68965;Rendimento bancário;Receita;Venda Produto;2995.15;Cliente Gama;Financeiro
+2023-04-07;NF-48802;Serviço prestado;Receita;Venda Produto;12910.42;Cliente Alfa;Operações
+2023-04-07;NF-69727;Obra física;Investimento;Sistema ERP;-38972.9;Cliente Gama;Administrativo
+2023-04-08;NF-19038;Frete logístico;Despesa;Manutenção;-9149.38;Cliente Alfa;Administrativo
+2023-04-08;NF-74863;Pagamento de conta;Despesa;Energia;-4923.28;Fornecedor YZ;RH
+2023-04-08;NF-11665;Retenção de imposto;Imposto;ISS;-4568.13;Serviços Omega;Administrativo
+2023-04-08;NF-79337;Frete logístico;Despesa;Energia;-4507.84;Cliente Beta;TI
+2023-04-11;NF-18191;Serviço prestado;Receita;Rendimento Investimento;6748.22;Cliente Gama;Administrativo
+2023-04-12;NF-98212;Compra de ativo;Investimento;Compra Equipamento;-11668.06;Fornecedor Global;Vendas
+2023-04-12;NF-93245;Folha salarial;Folha;Salário;-4324.71;Prestador Zeta;Vendas
+2023-04-13;NF-20392;Pagamento de conta;Despesa;Marketing;-9577.78;Fornecedor YZ;RH
+2023-04-14;NF-17138;Pagamento de conta;Despesa;Aluguel;-5197.38;Prestador Zeta;TI
+2023-04-15;NF-61411;Retenção de imposto;Imposto;IRPJ;-1867.96;Cliente Gama;Administrativo
+2023-04-18;NF-12395;Retenção de imposto;Imposto;IRPJ;-5723.05;Fornecedor XP;TI
+2023-04-20;NF-47501;Implementação sistema;Investimento;Compra Equipamento;-7260.47;Fornecedor XP;Financeiro
+2023-04-21;NF-45666;Implementação sistema;Investimento;Compra Equipamento;-48842.27;Prestador Zeta;Operações
+2023-04-21;NF-71217;Serviço prestado;Receita;Venda Serviço;7021.51;Cliente Alfa;Vendas
+2023-04-21;NF-63653;Folha salarial;Folha;Benefícios;-1598.45;Fornecedor YZ;Operações
+2023-04-22;NF-23504;Serviço prestado;Receita;Venda Produto;9883.83;Cliente Alfa;Operações
+2023-04-22;NF-44471;Folha salarial;Folha;Benefícios;-7338.2;Cliente Alfa;RH
+2023-04-26;NF-44055;Rendimento bancário;Receita;Rendimento Investimento;12884.09;Fornecedor Global;RH
+2023-04-27;NF-76759;Venda realizada;Receita;Venda Serviço;10695.55;Prestador Zeta;Operações
+2023-04-28;NF-89897;Folha salarial;Folha;Encargos;-5960.53;Fornecedor YZ;RH
+2023-04-29;NF-54230;Folha salarial;Folha;Benefícios;-3562.09;Cliente Gama;RH
+2023-04-29;NF-78783;Retenção de imposto;Imposto;ISS;-1149.18;Fornecedor Global;RH
+2023-05-01;NF-88913;Compra de ativo;Investimento;Sistema ERP;-6776.84;Fornecedor XP;Operações
+2023-05-03;NF-42733;Folha salarial;Folha;Salário;-3360.05;Fornecedor YZ;TI
+2023-05-04;NF-37645;Venda realizada;Receita;Venda Produto;8257.84;Cliente Alfa;Vendas
+2023-05-05;NF-19299;Pagamento de benefícios;Folha;Encargos;-4451.23;Fornecedor YZ;Administrativo
+2023-05-06;NF-33482;Folha salarial;Folha;Salário;-7972.24;Fornecedor Global;TI
+2023-05-06;NF-40865;Obra física;Investimento;Compra Equipamento;-28870.79;Cliente Alfa;TI
+2023-05-06;NF-36613;Pagamento de conta;Despesa;Energia;-6682.56;Fornecedor Global;Financeiro
+2023-05-07;NF-29313;Frete logístico;Despesa;Marketing;-4891.78;Banco Nacional;Vendas
+2023-05-08;NF-45958;Pagamento de benefícios;Folha;Encargos;-7937.41;Prestador Zeta;Administrativo
+2023-05-08;NF-72750;Compra de ativo;Investimento;Compra Equipamento;-8762.02;Serviços Omega;Vendas
+2023-05-09;NF-26451;Folha salarial;Folha;Salário;-3762.82;Cliente Gama;Operações
+2023-05-11;NF-10847;Retenção de imposto;Imposto;ISS;-3921.04;Cliente Alfa;Financeiro
+2023-05-11;NF-52977;Frete logístico;Despesa;Marketing;-6415.91;Fornecedor XP;Financeiro
+2023-05-14;NF-84764;Obra física;Investimento;Compra Equipamento;-20496.52;Fornecedor XP;Financeiro
+2023-05-15;NF-65895;Implementação sistema;Investimento;Sistema ERP;-26727.48;Cliente Beta;Operações
+2023-05-15;NF-86141;Folha salarial;Folha;Benefícios;-7060.08;Serviços Omega;Financeiro
+2023-05-16;NF-55194;Pagamento de conta;Despesa;Marketing;-9311.15;Serviços Omega;Financeiro
+2023-05-16;NF-22050;Folha salarial;Folha;Encargos;-3686.94;Serviços Omega;Operações
+2023-05-16;NF-49496;Folha salarial;Folha;Benefícios;-5703.86;Serviços Omega;Financeiro
+2023-05-17;NF-78867;Compra de ativo;Investimento;Expansão Filial;-8900.8;Prestador Zeta;Operações
+2023-05-18;NF-32921;Folha salarial;Folha;Salário;-1709.28;Fornecedor YZ;TI
+2023-05-19;NF-73173;Retenção de imposto;Imposto;ISS;-4735.58;Cliente Alfa;Financeiro
+2023-05-20;NF-71598;Rendimento bancário;Receita;Venda Serviço;3011.41;Banco Nacional;Operações
+2023-05-20;NF-56744;Campanha Google Ads;Despesa;Aluguel;-2092.61;Banco Nacional;RH
+2023-05-21;NF-47248;Implementação sistema;Investimento;Expansão Filial;-47648.94;Prestador Zeta;Vendas
+2023-05-21;NF-49713;Implementação sistema;Investimento;Expansão Filial;-30600.7;Fornecedor XP;Financeiro
+2023-05-25;NF-65028;Retenção de imposto;Imposto;ISS;-3794.99;Banco Nacional;RH
+2023-05-26;NF-49804;Serviço prestado;Receita;Venda Produto;11189.66;Cliente Alfa;Administrativo
+2023-05-28;NF-67642;Serviço prestado;Receita;Venda Produto;5552.29;Cliente Gama;Financeiro
+2023-05-31;NF-16247;Pagamento de benefícios;Folha;Encargos;-5243.91;Cliente Gama;Vendas
+2023-05-31;NF-46659;Folha salarial;Folha;Encargos;-4393.36;Fornecedor YZ;Vendas
+2023-06-02;NF-57749;Retenção de imposto;Imposto;INSS;-5982.34;Serviços Omega;TI
+2023-06-03;NF-89454;Venda realizada;Receita;Venda Produto;2311.19;Serviços Omega;RH
+2023-06-04;NF-47721;Pagamento de benefícios;Folha;Benefícios;-6293.29;Serviços Omega;Financeiro
+2023-06-05;NF-56677;Compra de ativo;Investimento;Sistema ERP;-23412.75;Cliente Alfa;RH
+2023-06-07;NF-41167;Venda realizada;Receita;Venda Serviço;10369.71;Banco Nacional;Vendas
+2023-06-07;NF-73364;Pagamento de tributo;Imposto;ICMS;-595.86;Cliente Gama;Operações
+2023-06-09;NF-84756;Rendimento bancário;Receita;Venda Serviço;8394.05;Banco Nacional;Administrativo
+2023-06-10;NF-37057;Obra física;Investimento;Compra Equipamento;-20978.37;Banco Nacional;TI
+2023-06-11;NF-75647;Compra de ativo;Investimento;Sistema ERP;-48959.04;Banco Nacional;Financeiro
+2023-06-11;NF-22478;Folha salarial;Folha;Benefícios;-1622.27;Serviços Omega;RH
+2023-06-12;NF-78398;Compra de ativo;Investimento;Expansão Filial;-15266.61;Fornecedor Global;RH
+2023-06-13;NF-72448;Serviço prestado;Receita;Venda Produto;3597.48;Cliente Gama;Operações
+2023-06-14;NF-85135;Folha salarial;Folha;Salário;-6673.61;Cliente Gama;Vendas
+2023-06-16;NF-45825;Pagamento de conta;Despesa;Aluguel;-5161.34;Cliente Alfa;Financeiro
+2023-06-18;NF-51943;Rendimento bancário;Receita;Venda Serviço;11352.03;Fornecedor YZ;Administrativo
+2023-06-20;NF-19182;Pagamento de benefícios;Folha;Encargos;-6168.22;Fornecedor XP;Vendas
+2023-06-22;NF-63201;Campanha Google Ads;Despesa;Aluguel;-8388.12;Cliente Beta;Vendas
+2023-06-22;NF-53532;Folha salarial;Folha;Encargos;-5718.15;Prestador Zeta;RH
+2023-06-23;NF-17627;Folha salarial;Folha;Encargos;-4085.66;Prestador Zeta;Vendas
+2023-06-23;NF-50873;Rendimento bancário;Receita;Rendimento Investimento;10839.74;Fornecedor YZ;Administrativo
+2023-06-24;NF-96366;Pagamento de conta;Despesa;Aluguel;-4100.78;Fornecedor XP;TI
+2023-06-26;NF-78558;Retenção de imposto;Imposto;INSS;-3480.62;Fornecedor YZ;RH
+2023-06-28;NF-21166;Pagamento de benefícios;Folha;Benefícios;-2599.53;Prestador Zeta;Financeiro
+2023-06-29;NF-66276;Implementação sistema;Investimento;Compra Equipamento;-13623.47;Banco Nacional;TI
+2023-07-08;NF-72949;Rendimento bancário;Receita;Rendimento Investimento;2880.58;Fornecedor YZ;TI
+2023-07-09;NF-22337;Venda realizada;Receita;Venda Produto;10981.57;Cliente Gama;RH
+2023-07-09;NF-93367;Pagamento de tributo;Imposto;IRPJ;-1719.06;Fornecedor YZ;Vendas
+2023-07-10;NF-90230;Retenção de imposto;Imposto;ICMS;-4078.09;Fornecedor YZ;Financeiro
+2023-07-12;NF-14727;Folha salarial;Folha;Salário;-5418.89;Cliente Gama;Administrativo
+2023-07-14;NF-99369;Serviço prestado;Receita;Rendimento Investimento;11324.13;Fornecedor YZ;Administrativo
+2023-07-14;NF-99402;Retenção de imposto;Imposto;ISS;-1815.2;Cliente Alfa;TI
+2023-07-15;NF-56085;Frete logístico;Despesa;Energia;-6825.87;Cliente Gama;Administrativo
+2023-07-15;NF-18205;Pagamento de conta;Despesa;Energia;-8915.9;Cliente Gama;Vendas
+2023-07-16;NF-48346;Implementação sistema;Investimento;Compra Equipamento;-9258.16;Fornecedor YZ;Administrativo
+2023-07-16;NF-20041;Pagamento de benefícios;Folha;Salário;-7965.07;Fornecedor XP;Financeiro
+2023-07-16;NF-32038;Pagamento de benefícios;Folha;Salário;-4468.53;Serviços Omega;TI
+2023-07-17;NF-43504;Folha salarial;Folha;Encargos;-4370.86;Fornecedor Global;TI
+2023-07-17;NF-32800;Compra de ativo;Investimento;Sistema ERP;-20279.0;Cliente Beta;Financeiro
+2023-07-17;NF-76535;Obra física;Investimento;Compra Equipamento;-15890.18;Serviços Omega;TI
+2023-07-17;NF-19688;Pagamento de tributo;Imposto;ISS;-5134.52;Fornecedor YZ;TI
+2023-07-17;NF-78855;Rendimento bancário;Receita;Venda Serviço;6421.02;Cliente Gama;TI
+2023-07-17;NF-11136;Obra física;Investimento;Compra Equipamento;-5436.88;Serviços Omega;TI
+2023-07-18;NF-95276;Campanha Google Ads;Despesa;Marketing;-5323.13;Prestador Zeta;Operações
+2023-07-18;NF-25724;Campanha Google Ads;Despesa;Energia;-2460.5;Fornecedor YZ;Financeiro
+2023-07-19;NF-98007;Retenção de imposto;Imposto;ICMS;-2449.81;Cliente Alfa;Financeiro
+2023-07-20;NF-30698;Frete logístico;Despesa;Logística;-3979.81;Serviços Omega;Vendas
+2023-07-20;NF-41591;Pagamento de tributo;Imposto;ICMS;-3646.26;Cliente Gama;Vendas
+2023-07-20;NF-68484;Rendimento bancário;Receita;Venda Serviço;3180.67;Prestador Zeta;Vendas
+2023-07-20;NF-60962;Pagamento de tributo;Imposto;INSS;-4170.93;Cliente Alfa;RH
+2023-07-22;NF-93564;Rendimento bancário;Receita;Venda Serviço;8235.02;Fornecedor Global;RH
+2023-07-23;NF-19020;Pagamento de benefícios;Folha;Encargos;-1675.87;Fornecedor Global;RH
+2023-07-25;NF-87935;Retenção de imposto;Imposto;ISS;-508.61;Fornecedor Global;Vendas
+2023-07-25;NF-90436;Pagamento de benefícios;Folha;Salário;-2832.07;Prestador Zeta;Operações
+2023-07-26;NF-97593;Venda realizada;Receita;Rendimento Investimento;3069.4;Fornecedor XP;Vendas
+2023-07-27;NF-93612;Pagamento de conta;Despesa;Marketing;-3482.4;Serviços Omega;Vendas
+2023-07-28;NF-49989;Venda realizada;Receita;Venda Serviço;11028.9;Fornecedor XP;Financeiro
+2023-07-29;NF-78701;Frete logístico;Despesa;Logística;-3722.72;Cliente Beta;Financeiro
+2023-07-29;NF-23323;Pagamento de benefícios;Folha;Encargos;-6710.84;Fornecedor Global;Vendas
+2023-07-30;NF-16012;Obra física;Investimento;Compra Equipamento;-12626.6;Banco Nacional;Financeiro
+2023-08-01;NF-76975;Folha salarial;Folha;Salário;-3840.5;Prestador Zeta;RH
+2023-08-03;NF-28386;Retenção de imposto;Imposto;INSS;-825.82;Banco Nacional;Vendas
+2023-08-04;NF-47086;Pagamento de tributo;Imposto;ISS;-1954.81;Fornecedor YZ;RH
+2023-08-05;NF-96757;Pagamento de conta;Despesa;Marketing;-3923.28;Cliente Beta;Financeiro
+2023-08-05;NF-99798;Rendimento bancário;Receita;Rendimento Investimento;10268.96;Fornecedor XP;Administrativo
+2023-08-07;NF-49441;Compra de ativo;Investimento;Compra Equipamento;-30166.03;Fornecedor XP;RH
+2023-08-07;NF-91328;Retenção de imposto;Imposto;INSS;-2555.74;Fornecedor YZ;Operações
+2023-08-07;NF-93645;Obra física;Investimento;Sistema ERP;-34722.49;Banco Nacional;Vendas
+2023-08-08;NF-21231;Venda realizada;Receita;Venda Produto;2817.25;Cliente Gama;TI
+2023-08-09;NF-97081;Serviço prestado;Receita;Rendimento Investimento;7292.6;Prestador Zeta;Financeiro
+2023-08-10;NF-48769;Folha salarial;Folha;Encargos;-2301.01;Fornecedor XP;Operações
+2023-08-10;NF-15303;Folha salarial;Folha;Benefícios;-3508.01;Cliente Beta;Administrativo
+2023-08-14;NF-63547;Frete logístico;Despesa;Logística;-8721.0;Cliente Gama;TI
+2023-08-16;NF-33075;Serviço prestado;Receita;Rendimento Investimento;7634.58;Cliente Alfa;Financeiro
+2023-08-16;NF-60761;Pagamento de tributo;Imposto;ISS;-1573.39;Banco Nacional;Administrativo
+2023-08-17;NF-74863;Folha salarial;Folha;Benefícios;-2884.14;Serviços Omega;Financeiro
+2023-08-18;NF-63372;Obra física;Investimento;Expansão Filial;-6248.34;Cliente Alfa;Financeiro
+2023-08-18;NF-24193;Venda realizada;Receita;Venda Produto;2007.98;Prestador Zeta;RH
+2023-08-20;NF-79494;Pagamento de benefícios;Folha;Salário;-7745.98;Fornecedor XP;Administrativo
+2023-08-21;NF-95830;Pagamento de tributo;Imposto;IRPJ;-944.49;Prestador Zeta;Financeiro
+2023-08-21;NF-14376;Pagamento de tributo;Imposto;INSS;-5570.76;Serviços Omega;Vendas
+2023-08-21;NF-12277;Implementação sistema;Investimento;Expansão Filial;-37583.86;Fornecedor YZ;TI
+2023-08-22;NF-45154;Rendimento bancário;Receita;Rendimento Investimento;8353.53;Fornecedor Global;RH
+2023-08-23;NF-95842;Pagamento de benefícios;Folha;Salário;-6146.31;Prestador Zeta;Vendas
+2023-08-25;NF-38751;Implementação sistema;Investimento;Sistema ERP;-40052.9;Cliente Gama;Administrativo
+2023-08-28;NF-15152;Folha salarial;Folha;Benefícios;-5295.2;Serviços Omega;Administrativo
+2023-08-28;NF-77880;Campanha Google Ads;Despesa;Manutenção;-8350.6;Fornecedor Global;Administrativo
+2023-08-28;NF-76051;Retenção de imposto;Imposto;INSS;-1897.91;Cliente Gama;Vendas
+2023-08-28;NF-83755;Campanha Google Ads;Despesa;Logística;-5246.78;Fornecedor XP;Administrativo
+2023-08-30;NF-77315;Serviço prestado;Receita;Rendimento Investimento;9045.11;Cliente Gama;Financeiro
+2023-08-30;NF-53005;Venda realizada;Receita;Venda Produto;13728.4;Cliente Gama;Administrativo
+2023-08-30;NF-16432;Retenção de imposto;Imposto;INSS;-2265.0;Cliente Gama;RH
+2023-08-31;NF-59894;Rendimento bancário;Receita;Venda Serviço;10336.68;Cliente Gama;Financeiro
+2023-09-01;NF-41142;Pagamento de conta;Despesa;Energia;-3356.09;Banco Nacional;RH
+2023-09-02;NF-56416;Venda realizada;Receita;Rendimento Investimento;7274.31;Fornecedor YZ;TI
+2023-09-05;NF-95719;Folha salarial;Folha;Encargos;-7932.14;Cliente Beta;Vendas
+2023-09-07;NF-29117;Pagamento de benefícios;Folha;Salário;-7196.66;Cliente Alfa;TI
+2023-09-08;NF-73697;Pagamento de tributo;Imposto;IRPJ;-4078.6;Cliente Beta;TI
+2023-09-09;NF-25333;Rendimento bancário;Receita;Rendimento Investimento;14842.6;Prestador Zeta;Financeiro
+2023-09-09;NF-94542;Rendimento bancário;Receita;Venda Produto;13310.26;Fornecedor Global;Financeiro
+2023-09-10;NF-33784;Rendimento bancário;Receita;Rendimento Investimento;6044.56;Fornecedor XP;Financeiro
+2023-09-11;NF-61718;Serviço prestado;Receita;Venda Produto;9458.17;Fornecedor YZ;Financeiro
+2023-09-11;NF-51655;Pagamento de conta;Despesa;Logística;-5056.35;Prestador Zeta;TI
+2023-09-13;NF-32470;Serviço prestado;Receita;Rendimento Investimento;608.76;Fornecedor YZ;Financeiro
+2023-09-17;NF-12778;Frete logístico;Despesa;Aluguel;-7657.51;Serviços Omega;Administrativo
+2023-09-18;NF-50017;Folha salarial;Folha;Encargos;-1962.88;Cliente Gama;Vendas
+2023-09-22;NF-55928;Venda realizada;Receita;Venda Produto;7815.88;Fornecedor YZ;Operações
+2023-09-24;NF-71257;Compra de ativo;Investimento;Compra Equipamento;-32572.65;Cliente Alfa;TI
+2023-09-24;NF-29339;Frete logístico;Despesa;Manutenção;-9246.55;Prestador Zeta;RH
+2023-09-24;NF-72010;Pagamento de tributo;Imposto;ISS;-5588.29;Prestador Zeta;Administrativo
+2023-09-26;NF-32910;Venda realizada;Receita;Venda Produto;13647.47;Fornecedor YZ;Operações
+2023-09-27;NF-49412;Compra de ativo;Investimento;Expansão Filial;-19973.48;Banco Nacional;Administrativo
+2023-09-28;NF-44931;Pagamento de tributo;Imposto;INSS;-3090.8;Cliente Gama;Operações
+2023-09-29;NF-64354;Venda realizada;Receita;Rendimento Investimento;9944.25;Cliente Beta;Administrativo
+2023-09-30;NF-10798;Campanha Google Ads;Despesa;Energia;-2733.69;Cliente Alfa;Vendas
+2023-10-01;NF-97118;Pagamento de conta;Despesa;Manutenção;-5143.93;Fornecedor Global;Financeiro
+2023-10-03;NF-99794;Venda realizada;Receita;Venda Produto;5409.59;Banco Nacional;Vendas
+2023-10-06;NF-92955;Pagamento de tributo;Imposto;ISS;-4673.04;Fornecedor Global;Vendas
+2023-10-06;NF-58060;Compra de ativo;Investimento;Expansão Filial;-18527.7;Banco Nacional;Administrativo
+2023-10-06;NF-33744;Retenção de imposto;Imposto;IRPJ;-3402.74;Fornecedor XP;TI
+2023-10-06;NF-90365;Implementação sistema;Investimento;Sistema ERP;-44582.45;Fornecedor Global;Administrativo
+2023-10-08;NF-91632;Pagamento de conta;Despesa;Logística;-3543.83;Cliente Alfa;TI
+2023-10-10;NF-71546;Compra de ativo;Investimento;Sistema ERP;-27630.48;Serviços Omega;Administrativo
+2023-10-11;NF-91457;Serviço prestado;Receita;Venda Serviço;14124.23;Cliente Alfa;TI
+2023-10-12;NF-16750;Serviço prestado;Receita;Venda Produto;2951.87;Cliente Gama;TI
+2023-10-15;NF-42730;Pagamento de benefícios;Folha;Encargos;-2526.94;Cliente Alfa;Operações
+2023-10-16;NF-48495;Pagamento de conta;Despesa;Marketing;-6951.48;Cliente Alfa;Financeiro
+2023-10-19;NF-14885;Retenção de imposto;Imposto;ICMS;-4188.96;Fornecedor YZ;TI
+2023-10-19;NF-37942;Implementação sistema;Investimento;Compra Equipamento;-27475.14;Serviços Omega;Vendas
+2023-10-21;NF-21783;Folha salarial;Folha;Salário;-1710.56;Prestador Zeta;RH
+2023-10-21;NF-89372;Retenção de imposto;Imposto;IRPJ;-2564.88;Serviços Omega;RH
+2023-10-22;NF-61902;Venda realizada;Receita;Venda Produto;6250.28;Cliente Gama;TI
+2023-10-22;NF-79221;Rendimento bancário;Receita;Venda Produto;3452.15;Prestador Zeta;Financeiro
+2023-10-22;NF-88649;Pagamento de tributo;Imposto;ISS;-928.66;Fornecedor Global;RH
+2023-10-24;NF-93176;Serviço prestado;Receita;Venda Produto;1977.54;Fornecedor XP;RH
+2023-10-24;NF-92375;Compra de ativo;Investimento;Sistema ERP;-17235.08;Fornecedor Global;Administrativo
+2023-10-26;NF-32885;Pagamento de benefícios;Folha;Salário;-3565.2;Cliente Alfa;TI
+2023-10-26;NF-96964;Rendimento bancário;Receita;Venda Produto;3717.32;Prestador Zeta;Financeiro
+2023-10-30;NF-14591;Serviço prestado;Receita;Venda Produto;2684.14;Cliente Beta;Administrativo
+2023-10-30;NF-11729;Compra de ativo;Investimento;Compra Equipamento;-26009.45;Prestador Zeta;Vendas
+2023-11-01;NF-25578;Campanha Google Ads;Despesa;Manutenção;-9035.47;Cliente Alfa;Financeiro
+2023-11-01;NF-81062;Obra física;Investimento;Sistema ERP;-28651.59;Banco Nacional;Operações
+2023-11-02;NF-87402;Venda realizada;Receita;Venda Produto;8895.04;Cliente Alfa;Financeiro
+2023-11-03;NF-97125;Folha salarial;Folha;Benefícios;-5428.35;Cliente Alfa;TI
+2023-11-05;NF-11087;Compra de ativo;Investimento;Compra Equipamento;-9069.33;Cliente Beta;Operações
+2023-11-05;NF-58968;Pagamento de tributo;Imposto;INSS;-3429.03;Banco Nacional;Administrativo
+2023-11-06;NF-31349;Pagamento de benefícios;Folha;Encargos;-5954.59;Prestador Zeta;Financeiro
+2023-11-07;NF-72480;Pagamento de tributo;Imposto;IRPJ;-2675.29;Serviços Omega;TI
+2023-11-07;NF-69961;Compra de ativo;Investimento;Expansão Filial;-7993.83;Cliente Gama;Operações
+2023-11-09;NF-20150;Compra de ativo;Investimento;Compra Equipamento;-16504.39;Prestador Zeta;RH
+2023-11-14;NF-47865;Campanha Google Ads;Despesa;Marketing;-4530.47;Cliente Alfa;Vendas
+2023-11-16;NF-79854;Folha salarial;Folha;Benefícios;-5695.46;Cliente Gama;RH
+2023-11-17;NF-21132;Pagamento de benefícios;Folha;Benefícios;-5333.26;Serviços Omega;RH
+2023-11-18;NF-97204;Obra física;Investimento;Expansão Filial;-12228.45;Cliente Alfa;Operações
+2023-11-19;NF-65479;Retenção de imposto;Imposto;ICMS;-5609.37;Banco Nacional;Vendas
+2023-11-20;NF-41849;Folha salarial;Folha;Salário;-7247.54;Fornecedor XP;TI
+2023-11-21;NF-81849;Venda realizada;Receita;Venda Serviço;9152.72;Cliente Gama;Financeiro
+2023-11-22;NF-89674;Pagamento de conta;Despesa;Marketing;-3036.27;Cliente Alfa;Administrativo
+2023-11-22;NF-90707;Retenção de imposto;Imposto;ICMS;-2182.17;Fornecedor YZ;Administrativo
+2023-11-23;NF-44213;Retenção de imposto;Imposto;ICMS;-677.49;Banco Nacional;Financeiro
+2023-11-25;NF-39605;Rendimento bancário;Receita;Rendimento Investimento;9215.94;Prestador Zeta;Vendas
+2023-11-25;NF-48495;Compra de ativo;Investimento;Expansão Filial;-22805.48;Prestador Zeta;Operações
+2023-11-27;NF-72582;Frete logístico;Despesa;Aluguel;-582.75;Cliente Alfa;RH
+2023-11-28;NF-97747;Pagamento de benefícios;Folha;Salário;-6866.17;Cliente Beta;Financeiro
+2023-11-29;NF-17608;Pagamento de tributo;Imposto;IRPJ;-4735.72;Fornecedor XP;RH
+2023-11-29;NF-46628;Obra física;Investimento;Sistema ERP;-36949.98;Fornecedor YZ;Financeiro
+2023-12-02;NF-79676;Folha salarial;Folha;Benefícios;-3548.01;Cliente Beta;TI
+2023-12-03;NF-37384;Pagamento de conta;Despesa;Logística;-7934.02;Fornecedor Global;Financeiro
+2023-12-04;NF-57893;Pagamento de tributo;Imposto;ISS;-3537.7;Fornecedor Global;TI
+2023-12-05;NF-67822;Frete logístico;Despesa;Manutenção;-6025.72;Fornecedor YZ;TI
+2023-12-06;NF-33569;Pagamento de tributo;Imposto;ICMS;-2135.14;Cliente Alfa;TI
+2023-12-06;NF-17850;Campanha Google Ads;Despesa;Logística;-8666.13;Fornecedor Global;Financeiro
+2023-12-06;NF-73129;Retenção de imposto;Imposto;IRPJ;-3057.24;Fornecedor Global;Administrativo
+2023-12-07;NF-36390;Rendimento bancário;Receita;Venda Produto;7388.65;Prestador Zeta;Operações
+2023-12-08;NF-48447;Pagamento de tributo;Imposto;IRPJ;-1415.23;Fornecedor YZ;Financeiro
+2023-12-08;NF-74683;Implementação sistema;Investimento;Expansão Filial;-16154.06;Fornecedor XP;TI
+2023-12-09;NF-22869;Pagamento de benefícios;Folha;Salário;-5027.41;Fornecedor YZ;TI
+2023-12-10;NF-89491;Compra de ativo;Investimento;Compra Equipamento;-30017.18;Cliente Beta;TI
+2023-12-10;NF-53869;Implementação sistema;Investimento;Expansão Filial;-23649.68;Fornecedor YZ;Vendas
+2023-12-10;NF-99808;Implementação sistema;Investimento;Sistema ERP;-47366.48;Serviços Omega;Operações
+2023-12-10;NF-38429;Obra física;Investimento;Compra Equipamento;-36960.72;Banco Nacional;Administrativo
+2023-12-11;NF-28841;Obra física;Investimento;Expansão Filial;-35563.58;Serviços Omega;Financeiro
+2023-12-12;NF-76170;Pagamento de conta;Despesa;Energia;-2529.29;Cliente Beta;Operações
+2023-12-12;NF-38693;Compra de ativo;Investimento;Compra Equipamento;-21648.28;Cliente Alfa;RH
+2023-12-13;NF-93782;Campanha Google Ads;Despesa;Logística;-9451.23;Cliente Gama;Vendas
+2023-12-13;NF-98213;Serviço prestado;Receita;Rendimento Investimento;14314.65;Prestador Zeta;Administrativo
+2023-12-14;NF-56556;Retenção de imposto;Imposto;ICMS;-1614.02;Banco Nacional;Operações
+2023-12-15;NF-27651;Serviço prestado;Receita;Rendimento Investimento;1140.46;Banco Nacional;TI
+2023-12-15;NF-21563;Pagamento de tributo;Imposto;ICMS;-578.66;Fornecedor XP;RH
+2023-12-18;NF-51447;Rendimento bancário;Receita;Venda Serviço;13833.44;Cliente Beta;Vendas
+2023-12-19;NF-89426;Serviço prestado;Receita;Venda Serviço;734.82;Fornecedor Global;RH
+2023-12-19;NF-78330;Venda realizada;Receita;Venda Produto;11845.99;Cliente Gama;Vendas
+2023-12-20;NF-65707;Pagamento de conta;Despesa;Marketing;-7006.04;Fornecedor XP;Operações
+2023-12-20;NF-61759;Implementação sistema;Investimento;Sistema ERP;-20024.5;Fornecedor YZ;Administrativo
+2023-12-21;NF-44807;Pagamento de conta;Despesa;Marketing;-5246.66;Cliente Alfa;Vendas
+2023-12-22;NF-60025;Frete logístico;Despesa;Energia;-3956.73;Prestador Zeta;TI
+2023-12-23;NF-73319;Pagamento de benefícios;Folha;Encargos;-4375.71;Serviços Omega;Operações
+2023-12-23;NF-70593;Pagamento de benefícios;Folha;Benefícios;-5371.1;Cliente Beta;Financeiro
+2023-12-23;NF-43906;Rendimento bancário;Receita;Venda Produto;6670.64;Cliente Beta;Financeiro
+2023-12-23;NF-85218;Pagamento de conta;Despesa;Aluguel;-7169.42;Banco Nacional;RH
+2023-12-23;NF-31382;Retenção de imposto;Imposto;IRPJ;-4471.69;Cliente Gama;Operações
+2023-12-30;NF-14927;Rendimento bancário;Receita;Venda Produto;6537.75;Cliente Alfa;Financeiro
+2023-12-31;NF-65759;Retenção de imposto;Imposto;IRPJ;-4983.81;Prestador Zeta;Vendas
+2023-12-31;NF-82694;Venda realizada;Receita;Venda Produto;10636.45;Cliente Beta;TI
+2024-01-01;NF-13409;Pagamento de benefícios;Folha;Benefícios;-2916.64;Cliente Gama;Operações
+2024-01-02;NF-12864;Obra física;Investimento;Expansão Filial;-27435.31;Banco Nacional;Financeiro
+2024-01-02;NF-24180;Implementação sistema;Investimento;Expansão Filial;-42919.37;Prestador Zeta;Operações
+2024-01-06;NF-60664;Folha salarial;Folha;Benefícios;-5707.19;Fornecedor Global;Vendas
+2024-01-07;NF-22494;Folha salarial;Folha;Encargos;-6407.57;Banco Nacional;Vendas
+2024-01-07;NF-51811;Retenção de imposto;Imposto;ICMS;-4024.36;Banco Nacional;Vendas
+2024-01-08;NF-21242;Frete logístico;Despesa;Logística;-5713.04;Prestador Zeta;RH
+2024-01-09;NF-65413;Obra física;Investimento;Expansão Filial;-27173.56;Banco Nacional;Vendas
+2024-01-10;NF-92190;Serviço prestado;Receita;Venda Serviço;4858.92;Prestador Zeta;Vendas
+2024-01-10;NF-95510;Pagamento de conta;Despesa;Energia;-5185.37;Fornecedor XP;RH
+2024-01-10;NF-49182;Pagamento de tributo;Imposto;IRPJ;-2999.38;Fornecedor Global;TI
+2024-01-13;NF-20070;Pagamento de benefícios;Folha;Encargos;-4594.93;Fornecedor YZ;Financeiro
+2024-01-15;NF-48901;Campanha Google Ads;Despesa;Logística;-7883.78;Fornecedor YZ;Vendas
+2024-01-15;NF-13889;Pagamento de benefícios;Folha;Benefícios;-7457.94;Prestador Zeta;Administrativo
+2024-01-17;NF-14508;Retenção de imposto;Imposto;IRPJ;-3264.44;Cliente Beta;Vendas
+2024-01-19;NF-71563;Pagamento de tributo;Imposto;ISS;-1138.99;Cliente Beta;Financeiro
+2024-01-19;NF-32361;Obra física;Investimento;Compra Equipamento;-4501.46;Banco Nacional;RH
+2024-01-19;NF-16952;Campanha Google Ads;Despesa;Logística;-7317.63;Prestador Zeta;Vendas
+2024-01-20;NF-88766;Venda realizada;Receita;Venda Produto;7373.45;Fornecedor XP;RH
+2024-01-21;NF-88135;Frete logístico;Despesa;Marketing;-9585.05;Fornecedor XP;RH
+2024-01-22;NF-95955;Venda realizada;Receita;Rendimento Investimento;4706.85;Serviços Omega;RH
+2024-01-22;NF-64038;Rendimento bancário;Receita;Venda Serviço;13743.74;Cliente Alfa;Administrativo
+2024-01-23;NF-40757;Venda realizada;Receita;Venda Produto;3913.32;Serviços Omega;TI
+2024-01-23;NF-41039;Campanha Google Ads;Despesa;Aluguel;-2304.93;Prestador Zeta;Vendas
+2024-01-25;NF-29734;Campanha Google Ads;Despesa;Manutenção;-7935.18;Serviços Omega;RH
+2024-01-25;NF-72234;Compra de ativo;Investimento;Expansão Filial;-8293.79;Banco Nacional;Administrativo
+2024-01-25;NF-26644;Implementação sistema;Investimento;Compra Equipamento;-3536.01;Fornecedor YZ;Vendas
+2024-01-26;NF-93059;Venda realizada;Receita;Venda Serviço;13076.01;Banco Nacional;RH
+2024-01-28;NF-81775;Retenção de imposto;Imposto;ISS;-780.55;Fornecedor Global;Vendas
+2024-01-28;NF-42532;Serviço prestado;Receita;Venda Serviço;9230.6;Banco Nacional;TI
+2024-01-28;NF-14759;Retenção de imposto;Imposto;IRPJ;-2168.68;Cliente Gama;Operações
+2024-01-29;NF-55642;Folha salarial;Folha;Benefícios;-5045.51;Prestador Zeta;RH
+2024-01-29;NF-22283;Pagamento de benefícios;Folha;Salário;-7680.72;Fornecedor YZ;Vendas
+2024-01-29;NF-19796;Frete logístico;Despesa;Aluguel;-5721.51;Serviços Omega;Vendas
+2024-01-30;NF-24019;Pagamento de benefícios;Folha;Benefícios;-7185.45;Cliente Beta;TI
+2024-01-31;NF-60588;Serviço prestado;Receita;Venda Produto;14429.6;Fornecedor XP;Vendas
+2024-01-31;NF-94308;Folha salarial;Folha;Salário;-7403.79;Fornecedor YZ;RH
+2024-02-02;NF-90853;Venda realizada;Receita;Venda Produto;1425.53;Serviços Omega;RH
+2024-02-02;NF-82282;Compra de ativo;Investimento;Compra Equipamento;-31777.23;Cliente Alfa;Vendas
+2024-02-03;NF-46326;Folha salarial;Folha;Benefícios;-3361.5;Cliente Beta;TI
+2024-02-04;NF-74510;Obra física;Investimento;Expansão Filial;-13527.01;Cliente Alfa;Operações
+2024-02-06;NF-94621;Pagamento de conta;Despesa;Marketing;-8634.01;Cliente Gama;Operações
+2024-02-06;NF-97077;Rendimento bancário;Receita;Venda Produto;6090.73;Cliente Alfa;Administrativo
+2024-02-06;NF-63316;Pagamento de tributo;Imposto;INSS;-5467.94;Banco Nacional;RH
+2024-02-07;NF-78356;Rendimento bancário;Receita;Venda Serviço;9994.66;Prestador Zeta;Operações
+2024-02-08;NF-79860;Pagamento de tributo;Imposto;ICMS;-5436.98;Cliente Gama;Vendas
+2024-02-10;NF-90272;Pagamento de benefícios;Folha;Salário;-4462.69;Banco Nacional;RH
+2024-02-11;NF-35654;Folha salarial;Folha;Salário;-6230.01;Fornecedor YZ;Administrativo
+2024-02-12;NF-74444;Implementação sistema;Investimento;Compra Equipamento;-41831.64;Fornecedor XP;TI
+2024-02-12;NF-26463;Pagamento de tributo;Imposto;INSS;-2906.39;Cliente Beta;TI
+2024-02-14;NF-37199;Folha salarial;Folha;Salário;-6410.27;Serviços Omega;Administrativo
+2024-02-16;NF-74911;Pagamento de conta;Despesa;Energia;-1714.22;Fornecedor XP;RH
+2024-02-19;NF-76327;Frete logístico;Despesa;Manutenção;-6365.95;Banco Nacional;Financeiro
+2024-02-19;NF-90332;Frete logístico;Despesa;Manutenção;-4846.37;Prestador Zeta;Vendas
+2024-02-20;NF-13779;Pagamento de tributo;Imposto;ICMS;-2135.9;Fornecedor XP;Administrativo
+2024-02-23;NF-81657;Campanha Google Ads;Despesa;Manutenção;-9873.92;Prestador Zeta;Financeiro
+2024-02-23;NF-20590;Pagamento de conta;Despesa;Manutenção;-1683.01;Fornecedor XP;Vendas
+2024-02-23;NF-30894;Serviço prestado;Receita;Rendimento Investimento;2319.26;Cliente Beta;Financeiro
+2024-02-25;NF-84347;Frete logístico;Despesa;Manutenção;-2277.58;Serviços Omega;Operações
+2024-02-28;NF-86191;Pagamento de benefícios;Folha;Benefícios;-2364.44;Banco Nacional;Financeiro
+2024-03-04;NF-10873;Pagamento de conta;Despesa;Manutenção;-9060.55;Cliente Beta;TI
+2024-03-06;NF-21685;Retenção de imposto;Imposto;INSS;-2844.14;Banco Nacional;Administrativo
+2024-03-08;NF-69284;Serviço prestado;Receita;Rendimento Investimento;8214.67;Cliente Gama;RH
+2024-03-10;NF-55008;Rendimento bancário;Receita;Venda Produto;2615.37;Cliente Gama;Financeiro
+2024-03-11;NF-82507;Campanha Google Ads;Despesa;Energia;-2065.61;Serviços Omega;Financeiro
+2024-03-11;NF-80819;Pagamento de tributo;Imposto;IRPJ;-2751.95;Fornecedor Global;Operações
+2024-03-12;NF-25700;Implementação sistema;Investimento;Compra Equipamento;-29999.18;Cliente Gama;Vendas
+2024-03-14;NF-81711;Frete logístico;Despesa;Energia;-9695.8;Serviços Omega;Operações
+2024-03-15;NF-14742;Serviço prestado;Receita;Venda Produto;8456.99;Cliente Gama;TI
+2024-03-16;NF-40926;Compra de ativo;Investimento;Expansão Filial;-21628.37;Fornecedor Global;TI
+2024-03-16;NF-73862;Frete logístico;Despesa;Aluguel;-6071.49;Cliente Alfa;Operações
+2024-03-16;NF-14444;Retenção de imposto;Imposto;IRPJ;-5135.71;Prestador Zeta;TI
+2024-03-16;NF-72336;Obra física;Investimento;Compra Equipamento;-33912.64;Cliente Beta;Operações
+2024-03-16;NF-63785;Retenção de imposto;Imposto;ICMS;-5205.28;Cliente Alfa;Vendas
+2024-03-17;NF-15392;Retenção de imposto;Imposto;ISS;-2773.11;Fornecedor Global;Administrativo
+2024-03-19;NF-10254;Folha salarial;Folha;Encargos;-7261.97;Cliente Beta;RH
+2024-03-19;NF-51269;Implementação sistema;Investimento;Expansão Filial;-24146.8;Serviços Omega;Financeiro
+2024-03-20;NF-36234;Pagamento de tributo;Imposto;INSS;-4299.87;Fornecedor Global;RH
+2024-03-21;NF-26040;Venda realizada;Receita;Rendimento Investimento;10274.51;Cliente Gama;TI
+2024-03-24;NF-79600;Folha salarial;Folha;Benefícios;-6431.76;Fornecedor XP;Administrativo
+2024-03-27;NF-35994;Implementação sistema;Investimento;Compra Equipamento;-21490.12;Fornecedor YZ;RH
+2024-03-29;NF-75614;Folha salarial;Folha;Benefícios;-6480.15;Cliente Alfa;TI
+2024-03-29;NF-14918;Pagamento de benefícios;Folha;Salário;-5679.8;Cliente Alfa;Financeiro
+2024-03-30;NF-48178;Compra de ativo;Investimento;Sistema ERP;-36699.43;Cliente Beta;Vendas
+2024-03-30;NF-28679;Pagamento de conta;Despesa;Manutenção;-3198.39;Cliente Beta;Financeiro
+2024-04-01;NF-63473;Pagamento de benefícios;Folha;Benefícios;-3093.08;Cliente Alfa;Vendas
+2024-04-02;NF-51990;Pagamento de tributo;Imposto;IRPJ;-1132.11;Cliente Alfa;TI
+2024-04-02;NF-78723;Implementação sistema;Investimento;Compra Equipamento;-13678.28;Prestador Zeta;Administrativo
+2024-04-03;NF-72105;Rendimento bancário;Receita;Rendimento Investimento;10093.03;Cliente Alfa;Vendas
+2024-04-04;NF-85921;Pagamento de tributo;Imposto;IRPJ;-4346.39;Banco Nacional;RH
+2024-04-04;NF-89911;Implementação sistema;Investimento;Compra Equipamento;-32569.29;Serviços Omega;Financeiro
+2024-04-05;NF-36679;Retenção de imposto;Imposto;IRPJ;-2712.05;Cliente Gama;Vendas
+2024-04-06;NF-47468;Folha salarial;Folha;Encargos;-2301.3;Serviços Omega;Vendas
+2024-04-06;NF-57468;Frete logístico;Despesa;Marketing;-3342.88;Banco Nacional;Financeiro
+2024-04-08;NF-41462;Serviço prestado;Receita;Venda Serviço;2049.84;Cliente Gama;Operações
+2024-04-08;NF-98146;Pagamento de tributo;Imposto;INSS;-4816.08;Banco Nacional;TI
+2024-04-12;NF-56911;Rendimento bancário;Receita;Venda Serviço;8302.02;Fornecedor YZ;TI
+2024-04-12;NF-60492;Serviço prestado;Receita;Rendimento Investimento;12287.28;Banco Nacional;TI
+2024-04-13;NF-80779;Folha salarial;Folha;Salário;-6448.33;Cliente Gama;Administrativo
+2024-04-14;NF-33504;Retenção de imposto;Imposto;ISS;-1299.35;Fornecedor Global;Operações
+2024-04-15;NF-38628;Rendimento bancário;Receita;Venda Produto;2270.01;Cliente Beta;Operações
+2024-04-15;NF-30121;Venda realizada;Receita;Venda Serviço;14386.28;Prestador Zeta;TI
+2024-04-17;NF-99546;Retenção de imposto;Imposto;ISS;-3968.87;Cliente Beta;Vendas
+2024-04-17;NF-18203;Implementação sistema;Investimento;Sistema ERP;-28118.23;Serviços Omega;TI
+2024-04-18;NF-28592;Rendimento bancário;Receita;Venda Serviço;10068.44;Fornecedor XP;Vendas
+2024-04-18;NF-78407;Pagamento de tributo;Imposto;ISS;-5620.51;Cliente Gama;Operações
+2024-04-19;NF-84413;Campanha Google Ads;Despesa;Aluguel;-5672.27;Serviços Omega;Operações
+2024-04-20;NF-69873;Serviço prestado;Receita;Venda Serviço;8483.76;Fornecedor YZ;Financeiro
+2024-04-20;NF-76513;Folha salarial;Folha;Benefícios;-3207.43;Fornecedor XP;Vendas
+2024-04-20;NF-64121;Rendimento bancário;Receita;Venda Serviço;14183.26;Prestador Zeta;RH
+2024-04-20;NF-51276;Frete logístico;Despesa;Logística;-9215.81;Cliente Gama;RH
+2024-04-21;NF-63317;Campanha Google Ads;Despesa;Logística;-516.88;Fornecedor Global;Vendas
+2024-04-21;NF-40996;Obra física;Investimento;Expansão Filial;-49970.66;Cliente Gama;Vendas
+2024-04-23;NF-82055;Pagamento de benefícios;Folha;Encargos;-4241.32;Fornecedor Global;Vendas
+2024-04-23;NF-50322;Folha salarial;Folha;Benefícios;-6415.8;Serviços Omega;RH
+2024-04-25;NF-64720;Retenção de imposto;Imposto;INSS;-5950.91;Fornecedor XP;Vendas
+2024-04-25;NF-21079;Pagamento de benefícios;Folha;Encargos;-6583.39;Fornecedor YZ;Vendas
+2024-04-28;NF-92474;Pagamento de conta;Despesa;Marketing;-5861.14;Cliente Alfa;Administrativo
+2024-04-29;NF-50816;Pagamento de tributo;Imposto;IRPJ;-3371.88;Banco Nacional;Administrativo
+2024-04-30;NF-75596;Retenção de imposto;Imposto;ISS;-5140.79;Cliente Gama;RH
+2024-05-01;NF-52157;Pagamento de tributo;Imposto;ICMS;-3515.1;Serviços Omega;TI
+2024-05-02;NF-22771;Pagamento de tributo;Imposto;IRPJ;-5478.51;Cliente Beta;Vendas
+2024-05-03;NF-72403;Obra física;Investimento;Compra Equipamento;-42977.27;Fornecedor XP;Vendas
+2024-05-04;NF-39279;Serviço prestado;Receita;Venda Serviço;13128.18;Fornecedor YZ;RH
+2024-05-04;NF-70421;Rendimento bancário;Receita;Venda Serviço;9600.63;Fornecedor Global;Vendas
+2024-05-05;NF-53813;Frete logístico;Despesa;Marketing;-2952.95;Prestador Zeta;Vendas
+2024-05-06;NF-13738;Retenção de imposto;Imposto;ICMS;-2149.17;Fornecedor Global;Financeiro
+2024-05-07;NF-80133;Pagamento de tributo;Imposto;IRPJ;-2064.68;Fornecedor YZ;Financeiro
+2024-05-07;NF-35830;Pagamento de conta;Despesa;Logística;-6407.26;Cliente Alfa;Administrativo
+2024-05-07;NF-61479;Retenção de imposto;Imposto;IRPJ;-2324.14;Fornecedor XP;Administrativo
+2024-05-07;NF-84495;Rendimento bancário;Receita;Rendimento Investimento;2704.57;Fornecedor YZ;Administrativo
+2024-05-08;NF-85184;Rendimento bancário;Receita;Venda Serviço;10465.58;Fornecedor Global;Administrativo
+2024-05-09;NF-75790;Obra física;Investimento;Sistema ERP;-31989.52;Fornecedor YZ;TI
+2024-05-10;NF-87926;Pagamento de benefícios;Folha;Salário;-2944.07;Banco Nacional;Administrativo
+2024-05-12;NF-91156;Rendimento bancário;Receita;Rendimento Investimento;8511.56;Cliente Beta;TI
+2024-05-12;NF-72567;Frete logístico;Despesa;Aluguel;-5416.78;Cliente Alfa;Administrativo
+2024-05-12;NF-63601;Venda realizada;Receita;Rendimento Investimento;7647.75;Cliente Beta;Financeiro
+2024-05-13;NF-28721;Rendimento bancário;Receita;Rendimento Investimento;13165.61;Banco Nacional;Financeiro
+2024-05-15;NF-10595;Folha salarial;Folha;Salário;-2869.2;Cliente Beta;TI
+2024-05-15;NF-94225;Folha salarial;Folha;Salário;-5038.18;Prestador Zeta;Operações
